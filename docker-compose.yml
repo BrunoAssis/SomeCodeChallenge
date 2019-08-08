@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  app:
+    build: .
+    ports:
+      - "7000:7000"
+    volumes:
+      - gradle-cache:/home/gradle/.gradle
+
+volumes:
+  gradle-cache:

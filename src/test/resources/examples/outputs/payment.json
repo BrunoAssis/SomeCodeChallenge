@@ -1,0 +1,23 @@
+{
+  "information": {
+    "chargeInformation": {
+      "amount": 123.45,
+      "boleto": {
+        "typableNumber": "707649331604572371351294600778982740913599743068",
+        "expirationDate": "2019-08-19"
+      },
+      "type": "BOLETO",
+      "creditCard": null
+    },
+    "buyer": {
+      "name": "John Doe",
+      "cpf": "12345678901",
+      "email": "john.doe@gmail.com"
+    }
+  },
+  "id": 1,
+  "status": {
+    "reason": null,
+    "paymentStatusType": "NOT_PAID"
+  }
+}

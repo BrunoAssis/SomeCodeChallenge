@@ -1,0 +1,22 @@
+{
+  "client": {
+    "id": 1
+  },
+  "paymentInformation": {
+    "buyer": {
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "cpf": "12345678901"
+    },
+    "chargeInformation": {
+      "amount": 4567.89,
+      "type": "CREDIT_CARD",
+      "creditCard": {
+        "holderName": "John Doe",
+        "number": "4567890123456789",
+        "expirationDate": "2035-07-31",
+        "cvv": "01"
+      }
+    }
+  }
+}
