@@ -1,4 +1,4 @@
-# Cora Challenge
+# Some Code Challenge
 
 ## Architecture
 
